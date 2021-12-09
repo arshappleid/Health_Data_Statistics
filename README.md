@@ -1,4 +1,4 @@
-# Group 29 - Analysis of Medical Cost , to predict insurance prices .
+Analysis of Medical Cost , to predict insurance prices .
 
 ## Milestones
 
