@@ -23,17 +23,17 @@ All of the work done for Milestone 4 can be found in the `presentation` director
 
 - July 28 - Removed duplicate , and uneeded files from repo.
 
-- Aug 3 - Prabhmeet - Had to redo parts of my EDA.
+- Aug 3 - Had to redo parts of my EDA.
 
-- Aug 4 - Prabhmeet - came up with new way to randomly sample data , and do EDA on that.
+- Aug 4 - Came up with new way to randomly sample data , and do EDA on that.
 
 - Aug 5 - Made the GitHub repository public.
 
-- Aug 9 - Prabhmeet - Finished up my Final analysis file.
+- Aug 9 - Finished up my Final analysis file.
 
-- Aug 10 - Prabhmeet - Came up with a temporary Dashboard.
+- Aug 10 - Came up with a temporary Dashboard.
 
-- Aug 11 - Prabhmeet - Finished up the dashboard and Final Analysis.
+- Aug 11 - Finished up the dashboard and Final Analysis.
 
 ## Describe your topic/interest in about 150-200 words
 
@@ -54,10 +54,6 @@ Tha dataset provides the annual medical expenses of several individuals relying 
 
 There was no information found on which company collected the dataset , although it was found that the dataset was created/uploaded on an [online source](https://www.kaggle.com/mirichoi0218/insurance/home) 3 years ago. The dataset was made public for possible educational purposes, and has been registered under [Open Data Commons](https://opendatacommons.org/licenses/dbcl/1-0/). Moreover, no information was found regarding whether the data was collected by a machine or a person.
 
-## Team Members
-
-- Person 1: Prabhmeet Deol : A third year Computer Science student.
-- Person 2: Ishita Gupta: A third year Computer Science student.
 
 ## References
 
