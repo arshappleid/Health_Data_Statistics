@@ -13,33 +13,7 @@ Dashboard for Milestone 4 can be found [here](https://github.com/data301-2021-su
 
 - [Link](https://www.youtube.com/watch?v=VIeNYzg3JXM) to the presentation video for the dashboard.
 
-All of the work done for Milestone 4 can be found in the `presentation` directory.
-
-**Timeline of few of the steps performed in this project:**
-
-- July 14 - Updated Readme for the dataset, and downloaded data into the repository.
-
-- July 15 - Updated Readme for task 3 and edited some spelling and grammatical errors.
-
-- July 24 - Prabhmeet - Performed my EDA.
-
-- July 26 - Came up with a pipeline , to process and clean data.
-
-- July 28 - Removed duplicate , and uneeded files from repo.
-
-- Aug 3 - Had to redo parts of my EDA.
-
-- Aug 4 - Came up with new way to randomly sample data , and do EDA on that.
-
-- Aug 5 - Made the GitHub repository public.
-
-- Aug 9 - Finished up my Final analysis file.
-
-- Aug 10 - Came up with a temporary Dashboard.
-
-- Aug 11 - Finished up the dashboard and Final Analysis.
-
-## Describe your topic/interest in about 150-200 words
+## Topic/interest in about 150-200 words
 
 This is a medical cost dataset of individuals in the United States as billed by various health insurance companies. Through this project, we wish to study the effect of the independent variables on the medical costs incurred by insurance service providers as well as the interplay between these seemingly distinct variables.
 Some questions that we are particularly interested in exploring are:
@@ -50,7 +24,7 @@ Some questions that we are particularly interested in exploring are:
 A useful outcome of this project could be to explore the results of controllable variables in reducing the total medical costs. For instance, not smoking and reducing one’s BMI may reduce the annual medical costs. In today’s world, the medical costs are quite high so any action we could take to reduce them would be incredibly helpful.
 I believe we could try to make a user-facing dashboard since they make it easier for users to read and understand the data.
 
-## Describe your dataset in about 150-200 words
+## Dataset in about 150-200 words
 
 - It is being assumed that the reported charges are annual charges, since it was not reported that the charges were incurred over lifetime, and the charges seem justifiable for each year .
 
@@ -58,6 +32,17 @@ Tha dataset provides the annual medical expenses of several individuals relying 
 
 There was no information found on which company collected the dataset , although it was found that the dataset was created/uploaded on an [online source](https://www.kaggle.com/mirichoi0218/insurance/home) 3 years ago. The dataset was made public for possible educational purposes, and has been registered under [Open Data Commons](https://opendatacommons.org/licenses/dbcl/1-0/). Moreover, no information was found regarding whether the data was collected by a machine or a person.
 
+### Visuals Made :
+
+![image-20220814162841884](./images/visual1.png)
+
+![image-20220814162841884](./images/visual2.png)
+
+![image-20220814162841884](./images/visual3.png)
+
+![image-20220814162841884](./images/visual4.png)
+
+![image-20220814162841884](./images/visual5.png)
 
 ## References
 
